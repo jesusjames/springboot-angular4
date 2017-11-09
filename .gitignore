@@ -32,14 +32,3 @@ nbdist/
 
 # Angular
 
-# compiled output
-/src/main/frontend/dist
-/src/main/frontend/tmp
-/src/main/frontend/out-tsc
-
-# dependencies
-/src/main/frontend/node_modules
-
-# e2e
-/src/main/frontend/e2e/*.js
-/src/main/frontend/e2e/*.map
